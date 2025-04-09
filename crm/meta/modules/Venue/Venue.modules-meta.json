@@ -1,0 +1,21 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Location",
+  "sequence_number": 118,
+  "api_supported": true,
+  "plural_label": "Venues",
+  "api_name": "Venue",
+  "module_name": "CustomModule4",
+  "parent_module": null
+}

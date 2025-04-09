@@ -1,0 +1,21 @@
+{
+  "visibility": 1,
+  "profiles": [
+    {
+      "api_name": "Administrator"
+    }
+  ],
+  "description": null,
+  "display_field": {
+    "api_name": "Name"
+  },
+  "show_as_tab": true,
+  "web_link": null,
+  "singular_label": "Conference",
+  "sequence_number": 116,
+  "api_supported": true,
+  "plural_label": "Conferences",
+  "api_name": "Conference",
+  "module_name": "CustomModule2",
+  "parent_module": null
+}
