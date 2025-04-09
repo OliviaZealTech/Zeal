@@ -1,0 +1,18 @@
+{
+    "hosting": "Internal",
+    "file_name": "HeatMap.widgets.zip",
+    "api_name": "HeatMap",
+    "permissions": {
+        "create": true,
+        "update": true,
+        "read": true,
+        "connector": true,
+        "delete": true
+    },
+    "name": "HeatMap",
+    "base_url": "/widget.html",
+    "start_url": "/widget.html",
+    "description": "HeatMap",
+    "source": "crm",
+    "type": "HOME_PAGE_DASHBOARD"
+}
